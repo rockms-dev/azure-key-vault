@@ -1,5 +1,5 @@
 {
-    "name": "insites-consulting/azure-key-vault",
+    "name": "rock-ms/azure-key-vault",
     "description": "Allow secrets to be easily fetched from an Azure Key Vault from within a Laravel application",
     "type": "library",
     "license": "proprietary",
